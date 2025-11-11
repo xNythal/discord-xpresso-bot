@@ -43,7 +43,7 @@ These instructions will help you set up the bot locally.
    ```
 
 4. **Configure settings:**  
-   Edit `config.yml` to customize your bot
+   Edit `config.yml` to customize your bot. [Learn more](https://github.com/xNythal/discord-expresso-bot/wiki)
 
 5. **Run the bot:**  
    ```bash
