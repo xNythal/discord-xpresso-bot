@@ -8,8 +8,7 @@ A fast and fun **Discord leveling bot** — gain XP, level up, and show off your
 
 - Assign XP for messages sent in your server  
 - Track user levels and experience  
-- Leaderboards to see top users  
-- Reaction role integration (optional)  
+- Leaderboards to see top users
 - Fully configurable via `config.yml` and `.env`  
 
 ---
